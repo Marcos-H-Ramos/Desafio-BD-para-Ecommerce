@@ -1,15 +1,20 @@
 # Criando Banco de Dados para Ecommerce 
 
-Replicado um banco de dados no MySQL Workbench baseando-se na instruções da professora, persistidos dados e testado com algumas consultas SQL com: 
+Replicado um banco de dados no MySQL Workbench baseando-se na instruções da professora, persistidos dados e testado com algumas consultas SQL com:
+
 [x] SELECT Statement
-[x] Filtros com WHERE Statement
-[x] Expressões para gerar atributos derivados
+
+[x] Filtros com WHERE Statement 
+
+[x] Expressões para gerar atributos derivados 
+
 [x] Ordenações dos dados com ORDER BY
+
 [x] Filtrar grupos com HAVING Statement
 
 Essas queries estão no arquivo Queries_Desafio.sql
 
- Com o BD funcionando foi feito um refinamento no SCript e refletidas as alterações no Modelo  EER refinado.
+ Com o BD funcionando foi feito um refinamento no Script e refletidas as alterações no Modelo  EER refinado.
 
 ## Refinando BD para Ecommerce
 
